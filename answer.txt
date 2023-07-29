@@ -1,0 +1,8 @@
+a repositories offer remote access to code modules as well as software packages to promote collaborative use
+
+2-on windows ctrl+shift+p or on mac command+shift+p 
+3-git push command
+4- create a snapshot of the staged changes along a timeline of a Git projects history
+5-It will run as follows: $ git commit -m "Commit message
+6-The git add command adds a change in the working directory to the staging area
+7-is a shorthand name for the remote repository that a project was originally cloned from
